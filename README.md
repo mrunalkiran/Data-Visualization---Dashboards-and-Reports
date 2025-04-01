@@ -1,8 +1,8 @@
 # Data-Visualization---Dashboards-and-Reports
 
 ##Name: Mrunal Kiran
-##ID: Hawk ID: mkiran@hawk.iit.edu
-UID: A20580436
+##Hawk ID: mkiran@hawk.iit.edu
+##ID: A20580436
 
 ## Data Dictionary
 The following data dictionary provides descriptions for key tables and calculated measures used in the Airbnb market analysis of Albany, NY. This reference facilitates understanding of the dataset structure, enhancing clarity for data exploration and analysis.
